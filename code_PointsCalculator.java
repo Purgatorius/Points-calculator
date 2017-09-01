@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by B4RT on 2017-08-08.
- */
 public class Zadanie3 {
     public static void main (String[] args)
     {
